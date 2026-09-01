@@ -1,7 +1,7 @@
 # Noobic Engineering Service (NES) Bot — Privacy Policy
 
 **Effective Date:** August 30, 2026
-**Last Updated:** August 30, 2026
+**Last Updated:** September 1, 2026
 
 This Privacy Policy explains what information the automated Discord application operated by Noobic Engineering Service ("NES," "we," "us," or "our") — including its ranking, promotion, shift clock-in/out, event and shift posting, and merit-tracking features (collectively, the "Bot") — collects, how it's used, and how it's stored.
 
