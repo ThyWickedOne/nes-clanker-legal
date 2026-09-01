@@ -1,66 +1,67 @@
-# Noobic Engineering Service (NES) Bot — Terms of Service
+# Noobic Engineering Service (NES) Bot — Privacy Policy
 
 **Effective Date:** August 30, 2026
 **Last Updated:** August 30, 2026
 
-These Terms of Service ("Terms") govern your access to and use of the automated Discord application operated by Noobic Engineering Service ("NES," "we," "us," or "our"), including its ranking, promotion, shift clock-in/out, event and shift posting, and merit-tracking features (collectively, the "Bot"). By using the Bot in any NES Discord server, you agree to these Terms. If you do not agree, do not use the Bot.
+This Privacy Policy explains what information the automated Discord application operated by Noobic Engineering Service ("NES," "we," "us," or "our") — including its ranking, promotion, shift clock-in/out, event and shift posting, and merit-tracking features (collectively, the "Bot") — collects, how it's used, and how it's stored.
 
-These Terms should be read together with our Privacy Policy, which explains what data the Bot collects and how it's used and stored.
+This Policy should be read together with our Terms of Service, which govern your use of the Bot's features.
 
-The Bot is an unofficial, independently developed tool created by NES for internal faction management. It is **not created, endorsed, sponsored, or affiliated with Discord Inc. or Roblox Corporation**, and its use is subject to and does not override the Discord Terms of Service and Discord Community Guidelines, or any applicable Roblox Terms of Use.
+The Bot is an unofficial, independently developed tool created by NES for internal faction management. It is **not created, endorsed, sponsored, or affiliated with Discord Inc. or Roblox Corporation**.
 
 ---
 
-### 1. Eligibility
+### 1. Information We Collect
 
-You must meet Discord's own minimum age requirement (currently 13 years old, or the age of digital consent in your country if higher) to use Discord, and by extension the Bot. If you do not meet Discord's eligibility requirements, you may not use the Bot regardless of any NES rank or role you may hold.
+To provide rank tracking, merit-based promotions, and shift attendance, the Bot stores the following information tied to your Discord account:
 
-### 2. What the Bot Does
+- Your Discord username/user ID;
+- Your current merit total; and
+- Shift attendance records (clock-in/out data) used to calculate merit awards.
 
-The Bot provides the following functions to members of the NES Discord server:
+Your rank/role is reflected directly through the Discord role assigned to you in the server — the Bot does not separately store a rank field. Promotion eligibility is calculated by comparing your merit total to the relevant threshold at the time a promotion is evaluated, rather than stored as ongoing "progress" data.
 
-- **Rank & Role Management** — tracks each member's current rank/role and applies automatic promotions when eligibility criteria are met.
-- **Shift Clock-In/Out** — allows members to log the start and end of a shift.
-- **Event & Shift Postings** — allows authorized staff to post upcoming events and available shifts.
-- **Merit System** — tracks a "merit" balance for each member, awarded for participation in shifts, and used as one factor in promotion eligibility.
+The Bot does **not** collect message content, private messages, voice data, or any information unrelated to rank and merit tracking. We do not collect real names, contact details, payment information, or IP addresses.
 
-The Bot's specific features, commands, and promotion criteria may be changed, expanded, or removed at any time at NES's sole discretion, with or without notice.
+### 2. How We Use This Information
 
-### 3. The Merit System Is Internal Only
+Stored data is used exclusively to:
 
-Merits are an internal recognition/participation metric used solely within the NES faction for rank and promotion purposes. Merits:
+- Display your current rank, role, and merit balance;
+- Determine and apply automatic promotions;
+- Record and calculate shift attendance and merit awards; and
+- Allow NES leadership to review and correct records when needed.
 
-- Have **no real-world monetary value**;
-- Cannot be purchased, sold, gifted, transferred, exchanged for real currency, Robux, or any other good or service; and
-- May be adjusted, reset, corrected, or revoked by NES leadership at any time if awarded in error, obtained through prohibited conduct, or as part of a broader system change.
+We do not use this data for advertising, profiling, or any purpose outside operating the Bot's stated features.
 
-### 4. Acceptable Use
+### 3. Where and How Data Is Stored
 
-When using the Bot, you agree that you will not:
+The Bot's data is stored using MongoDB Atlas, a third-party database hosting provider. Data is encrypted in transit and at rest (AES-256), consistent with Atlas's default infrastructure-level encryption. Atlas is used solely as our hosting provider — access to the underlying data is limited to authorized NES development/management staff for the purpose of operating and maintaining the Bot.
 
-- Attempt to falsify, exploit, or manipulate shift clock-in/out records (e.g., clocking in without attending, clocking in on another member's behalf, or exploiting a bug to inflate time or merits);
-- Attempt to exploit bugs or unintended behavior in the Bot to gain merits, ranks, or promotions you have not legitimately earned;
-- Use the Bot to harass, impersonate, or misrepresent another member;
-- Attempt to access, alter, or delete another member's stored data without authorization; or
-- Use the Bot in any way that violates Discord's Terms of Service, Discord Community Guidelines, or applicable law.
+### 4. No Third-Party Sharing
 
-### 5. Enforcement
+NES does not sell, rent, trade, or otherwise share your data with any third party for their own purposes. We use MongoDB Atlas solely as infrastructure to host the Bot's database; MongoDB does not access, use, or share this data independently of providing that hosting service. Aside from this infrastructure provider, data collected by the Bot stays within NES's own operation and is used solely for the internal purposes described above.
 
-Violations of these Terms or of NES's internal conduct standards may result in, at NES leadership's discretion and without prior notice: correction or forfeiture of merits, demotion, suspension of Bot access, removal of roles, or removal from the NES Discord server. Enforcement decisions made under these Terms are at the discretion of NES leadership and are not guaranteed to follow a fixed formula.
+### 5. Data Retention & Your Rights
 
-### 6. Availability
+Your data is retained for as long as you remain a member of the NES Discord server, or as reasonably necessary afterward for record-keeping (e.g., promotion history). You may request to:
 
-The Bot is run on infrastructure maintained by NES volunteers and is provided on an "as-is, as-available" basis. NES does not guarantee uninterrupted uptime and is not liable for lost merits, missed promotions, or unrecorded shifts resulting from downtime, maintenance, bugs, or hardware failure. Members who believe a shift or merit award was lost due to a technical issue may raise it with NES leadership for manual correction, at NES's discretion.
+- **Access** the data the Bot holds about you;
+- **Correct** inaccurate data (e.g., a miscounted shift); or
+- **Delete** your data, subject to any records NES reasonably needs to retain for internal accountability.
 
-### 7. Disclaimer & Limitation of Liability
+These rights are available to all members regardless of location, including where required under regional privacy laws such as the GDPR (EU/UK) or CCPA (California).
 
-The Bot is provided without warranties of any kind, express or implied. To the fullest extent permitted by law, NES and its leadership/development team are not liable for any indirect, incidental, or consequential damages arising from your use of, or inability to use, the Bot, including loss of rank, merits, or promotion eligibility. Because merits and ranks have no monetary value (Section 3), NES's maximum liability arising from the Bot is limited to correcting the underlying data.
+To make a request, contact **ThyWickedOne** on Discord, Chairwoman of NES. We will respond within a reasonable time.
 
-### 8. Changes to These Terms
+### 6. Children's Privacy
 
-NES may update these Terms as the Bot's features change. Material changes will be announced in the NES Discord server. Continued use of the Bot after an update constitutes acceptance of the revised Terms.
+The Bot follows Discord's own minimum age policy (13+, or higher where required by local law) and does not knowingly collect data from users who do not meet that requirement. If you believe a user under the applicable minimum age has data stored by the Bot, contact us using the details in Section 5 and we will investigate and remove it as appropriate.
 
-### 9. Contact
+### 7. Changes to This Policy
 
-Questions about these Terms can be directed to: **ThyWickedOne** on Discord, Chairwoman of NES.
+We may update this Privacy Policy as the Bot's data practices change. Material changes will be announced in the NES Discord server, and the "Last Updated" date above will be revised accordingly.
 
+### 8. Contact
+
+Questions about this Privacy Policy, or requests regarding your stored data, can be directed to: **ThyWickedOne** on Discord, Chairwoman of NES.
